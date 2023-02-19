@@ -7,7 +7,10 @@ export const metadata = {
 
 export default async function Extensions() {
   
-  const extensionsResponse = await fetch('https://raw.githubusercontent.com/VinewZ/vscodesettings/main/extensions.json')
+  const extensionsResponse = await fetch('https://raw.githubusercontent.com/VinewZ/vscodesettings/main/extensions.json', {next: {
+    revalidate: 60,
+  }})
+  
   const extensions: string = await extensionsResponse.text()
 
   const highlighter = await shiki.getHighlighter({
