@@ -35,5 +35,6 @@
   "terminal.integrated.defaultProfile.windows": "PowerShell",
   "terminal.integrated.defaultProfile.linux": "fish, Git Bash",
   "terminal.external.windowsExec": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-  "settings-repository.repository": "https://github.com/VinewZ/vscodesettings.git"
+  "settings-repository.repository": "https://github.com/VinewZ/config-files.git",
+  "settings-repository.branch": "configs"
 }
