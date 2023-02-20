@@ -1,0 +1,39 @@
+{
+  "diffEditor.wordWrap": "on",
+  "editor.minimap.enabled": true,
+  "editor.wordWrap": "on",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "editor.suggestSelection": "first",
+  "workbench.startupEditor": "none",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.lineHeight": 1.7,
+  "editor.smoothScrolling": true,
+  "editor.fontSize": 16,
+  "editor.linkedEditing": true,
+  "terminal.integrated.fontFamily": "FiraCode NF , Arial",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "window.restoreWindows": "none",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.tabSize": 2,
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.colorTheme": "Rainier - Retro",
+  "editor.colorDecorators": false,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.defaultProfile.linux": "fish, Git Bash",
+  "terminal.external.windowsExec": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "settings-repository.repository": "https://github.com/VinewZ/vscodesettings.git"
+}

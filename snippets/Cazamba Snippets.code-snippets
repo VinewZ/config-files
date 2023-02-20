@@ -1,0 +1,55 @@
+{
+	"add": {
+		"prefix": ".add",
+		"body": [
+			".add(() => { ${1} }, '+=.5')",
+		],
+		"description": "Create a TweenMax add function"
+	},
+	"lowCtaPulseAnim": {
+		"prefix": ".lowcta",
+		"body": [
+			".from('#czmb-b-t1', .7, {autoAlpha: 0, x: -75, ease: Power3.easeOut}, 'start')",
+			".to('#czmb-b-t1', .5, {autoAlpha: 0, x: 75, ease: Power3.easeIn}, '+=2.5')",
+			"",
+			".from('#czmb-b-t2', .7, {autoAlpha: 0, x: 75, ease: Power3.easeOut})",
+			".to('#czmb-b-t2', .2, {scale: 1.03}, '+=2.5')",
+			".to('#czmb-b-t2', .2, {scale: 1})",
+			".to('#czmb-b-t2', .2, {scale: 1.03})",
+			".to('#czmb-b-t2', .2, {scale: 1})",
+			".to('#czmb-b-t2', .5, {autoAlpha: 0, x: -75, ease: Power3.easeIn}, '+=2.5')",
+			".repeat(-1)"
+		],
+		"description": "Create a low CTA pulse animation"
+	},
+	"ctaPulseAnim": {
+		"prefix": ".cta",
+		"body": [
+			".to('#czmb-${1}-cta', .2, {scale: 1.03})",
+			".to('#czmb-${1}-cta', .2, {scale: 1})",
+			".to('#czmb-${1}-cta', .2, {scale: 1.03})",
+			".to('#czmb-${1}-cta', .2, {scale: 1})",
+			".repeatDelay(3)",
+			".repeat(-1)"
+		],
+		"description": "Create a CTA pulse animation"
+	},
+	"countdown": {
+		"prefix": ".count",
+		"body": [
+			"const countdown = setInterval(function() {",
+				"let countdownDate = new Date(2022, 08, 22, 20, 30).getTime();",
+				"let now = new Date().getTime();",
+				"",
+				"let distance = countdownDate - now;",
+				"let days = Math.floor(distance / (1000 * 60 * 60 * 24));",
+				"let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));",
+				"let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));",
+				"let seconds = Math.floor((distance % (1000 * 60)) / 1000);",
+				"",
+				"document.getElementById('czmb-b-ID').innerHTML = String(days).padStart(2, '0');",
+			"}, 1000);",
+		],
+		"description": "Create a CTA pulse animation"
+	},
+}
