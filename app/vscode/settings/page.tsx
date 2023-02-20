@@ -7,7 +7,7 @@ export const metadata = {
 
 export default async function Settings() {
   
-  const settingsResponse = await fetch('https://raw.githubusercontent.com/VinewZ/vscodesettings/main/settings.json', {next: {
+  const settingsResponse = await fetch('https://raw.githubusercontent.com/VinewZ/config-files/configs/settings.json', {next: {
     revalidate: 60,
   }})
   

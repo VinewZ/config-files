@@ -7,7 +7,7 @@ export const metadata = {
 
 export default async function Extensions() {
   
-  const extensionsResponse = await fetch('https://raw.githubusercontent.com/VinewZ/vscodesettings/main/extensions.json', {next: {
+  const extensionsResponse = await fetch('https://raw.githubusercontent.com/VinewZ/config-files/configs/extensions.json', {next: {
     revalidate: 60,
   }})
   
