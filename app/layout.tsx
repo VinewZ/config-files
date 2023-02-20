@@ -26,7 +26,7 @@ export default function RootLayout({ children,}: {children: ReactNode}) {
     <html lang="en" className={inter.className}>
       <head />
       <body className='bg-dark-pattern bg-no-repeat bg-cover w-screen h-screen text-[rgb(143,140,168)] py-20'>
-        <main className='w-9/12 h-full bg-[#232135] grid grid-cols-22 grid-rows-26 m-auto rounded-md overflow-hidden'>
+        <main className='w-9/12 h-full bg-[#232135] grid grid-cols-22 grid-rows-26 m-auto rounded-md overflow-hidden shadow-2xl shadow-black/30'>
           <Topbar/>
           <Sidebar/>
           <Explorer/>
