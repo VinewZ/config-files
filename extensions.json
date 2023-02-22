@@ -65,11 +65,6 @@
         "enabled": true
     },
     {
-        "identifier": "ms-vscode.powershell",
-        "version": "2023.1.0",
-        "enabled": false
-    },
-    {
         "identifier": "naumovs.color-highlight",
         "version": "2.5.0",
         "enabled": true
