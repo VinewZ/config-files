@@ -31,11 +31,11 @@
 		"body": [
 			"import { createContext, ReactNode } from 'react';",
 			"",
-			"interface ${1:$TM_FILENAME_BASE}ProviderType {",
+			"type ${1:$TM_FILENAME_BASE}ProviderType = {",
 			"  children: ReactNode",
 			"}",
 			"",
-			"interface ${1:$TM_FILENAME_BASE}ContextType {",
+			"type ${1:$TM_FILENAME_BASE}ContextType = {",
 			"  ",
 			"}",
 			"",
