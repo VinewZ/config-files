@@ -7,7 +7,7 @@
     {
         "identifier": "bierner.markdown-preview-github-styles",
         "version": "1.0.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "bradlc.vscode-tailwindcss",
@@ -127,6 +127,6 @@
     {
         "identifier": "yzhang.markdown-all-in-one",
         "version": "3.5.0",
-        "enabled": true
+        "enabled": false
     }
 ]
