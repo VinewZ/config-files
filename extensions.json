@@ -5,11 +5,6 @@
         "enabled": true
     },
     {
-        "identifier": "bierner.markdown-preview-github-styles",
-        "version": "1.0.1",
-        "enabled": false
-    },
-    {
         "identifier": "bradlc.vscode-tailwindcss",
         "version": "0.9.7",
         "enabled": true
@@ -123,10 +118,5 @@
         "identifier": "Youssef.viow",
         "version": "0.3.3",
         "enabled": true
-    },
-    {
-        "identifier": "yzhang.markdown-all-in-one",
-        "version": "3.5.0",
-        "enabled": false
     }
 ]
