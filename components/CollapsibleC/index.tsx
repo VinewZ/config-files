@@ -3,7 +3,7 @@
 import * as Collapsible from '@radix-ui/react-collapsible';
 import { ChevronDown, Folder } from 'lucide-react';
 import Link from 'next/link';
-import { ReactComponentElement, ReactElement, useState } from 'react';
+import { ReactElement } from 'react';
 
 type CollapsibleCProps = {
   title: string,
