@@ -90,11 +90,6 @@
         "enabled": true
     },
     {
-        "identifier": "olback.es6-css-minify",
-        "version": "3.3.3",
-        "enabled": false
-    },
-    {
         "identifier": "ritwickdey.LiveServer",
         "version": "5.7.9",
         "enabled": true
