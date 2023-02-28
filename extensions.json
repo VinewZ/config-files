@@ -1,5 +1,25 @@
 [
     {
+        "identifier": "WallabyJs.console-ninja",
+        "version": "0.0.77",
+        "enabled": true
+    },
+    {
+        "identifier": "monokai.theme-monokai-pro-vscode",
+        "version": "1.2.0",
+        "enabled": true
+    },
+    {
+        "identifier": "Blackboxapp.blackbox",
+        "version": "0.10.25",
+        "enabled": false
+    },
+    {
+        "identifier": "TabNine.tabnine-vscode",
+        "version": "3.6.27",
+        "enabled": false
+    },
+    {
         "identifier": "alefragnani.Bookmarks",
         "version": "13.3.1",
         "enabled": true
@@ -17,7 +37,7 @@
     {
         "identifier": "dracula-theme.theme-dracula",
         "version": "2.24.2",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "formulahendry.auto-rename-tag",
@@ -55,11 +75,6 @@
         "enabled": true
     },
     {
-        "identifier": "monokai.theme-monokai-pro-vscode",
-        "version": "1.2.0",
-        "enabled": true
-    },
-    {
         "identifier": "mrmlnc.vscode-json5",
         "version": "1.0.0",
         "enabled": true
@@ -82,7 +97,7 @@
     {
         "identifier": "rangav.vscode-thunder-client",
         "version": "2.5.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ritwickdey.LiveServer",
@@ -107,11 +122,6 @@
     {
         "identifier": "VisualStudioExptTeam.vscodeintellicode",
         "version": "1.2.30",
-        "enabled": true
-    },
-    {
-        "identifier": "WallabyJs.console-ninja",
-        "version": "0.0.77",
         "enabled": true
     },
     {

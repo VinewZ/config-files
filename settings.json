@@ -6,7 +6,7 @@
   "liveServer.settings.donotVerifyTags": true,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
-  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+  "workbench.iconTheme": "symbols",
   "[json]": {
     "editor.quickSuggestions": {
       "strings": true
