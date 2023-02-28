@@ -30,6 +30,11 @@
         "enabled": true
     },
     {
+        "identifier": "christian-kohler.npm-intellisense",
+        "version": "1.4.4",
+        "enabled": true
+    },
+    {
         "identifier": "christian-kohler.path-intellisense",
         "version": "2.8.4",
         "enabled": true
@@ -87,11 +92,21 @@
     {
         "identifier": "olback.es6-css-minify",
         "version": "3.3.3",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ritwickdey.LiveServer",
         "version": "5.7.9",
+        "enabled": true
+    },
+    {
+        "identifier": "streetsidesoftware.code-spell-checker",
+        "version": "2.18.0",
+        "enabled": true
+    },
+    {
+        "identifier": "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+        "version": "2.0.11",
         "enabled": true
     },
     {

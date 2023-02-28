@@ -36,5 +36,9 @@
   "terminal.integrated.defaultProfile.linux": "fish, Git Bash",
   "terminal.external.windowsExec": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
   "settings-repository.repository": "https://github.com/VinewZ/config-files.git",
-  "settings-repository.branch": "configs"
+  "settings-repository.branch": "configs",
+  "cSpell.ignoreWords": [
+    "lucide",
+    "shiki"
+  ]
 }
