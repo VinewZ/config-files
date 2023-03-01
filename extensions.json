@@ -97,7 +97,7 @@
     {
         "identifier": "streetsidesoftware.code-spell-checker",
         "version": "2.18.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "streetsidesoftware.code-spell-checker-portuguese-brazilian",
