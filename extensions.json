@@ -1,25 +1,5 @@
 [
     {
-        "identifier": "WallabyJs.console-ninja",
-        "version": "0.0.78",
-        "enabled": true
-    },
-    {
-        "identifier": "monokai.theme-monokai-pro-vscode",
-        "version": "1.2.0",
-        "enabled": true
-    },
-    {
-        "identifier": "Blackboxapp.blackbox",
-        "version": "0.10.25",
-        "enabled": false
-    },
-    {
-        "identifier": "TabNine.tabnine-vscode",
-        "version": "3.6.27",
-        "enabled": false
-    },
-    {
         "identifier": "alefragnani.Bookmarks",
         "version": "13.3.1",
         "enabled": true
@@ -75,6 +55,11 @@
         "enabled": true
     },
     {
+        "identifier": "monokai.theme-monokai-pro-vscode",
+        "version": "1.2.0",
+        "enabled": true
+    },
+    {
         "identifier": "mrmlnc.vscode-json5",
         "version": "1.0.0",
         "enabled": true
@@ -95,16 +80,6 @@
         "enabled": true
     },
     {
-        "identifier": "streetsidesoftware.code-spell-checker",
-        "version": "2.18.0",
-        "enabled": false
-    },
-    {
-        "identifier": "streetsidesoftware.code-spell-checker-portuguese-brazilian",
-        "version": "2.0.11",
-        "enabled": false
-    },
-    {
         "identifier": "styled-components.vscode-styled-components",
         "version": "1.7.5",
         "enabled": true
@@ -122,6 +97,11 @@
     {
         "identifier": "VisualStudioExptTeam.vscodeintellicode",
         "version": "1.2.30",
+        "enabled": true
+    },
+    {
+        "identifier": "WallabyJs.console-ninja",
+        "version": "0.0.78",
         "enabled": true
     },
     {
