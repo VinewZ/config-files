@@ -20,11 +20,6 @@
         "enabled": true
     },
     {
-        "identifier": "dracula-theme.theme-dracula",
-        "version": "2.24.2",
-        "enabled": false
-    },
-    {
         "identifier": "formulahendry.auto-rename-tag",
         "version": "0.1.10",
         "enabled": true
@@ -77,16 +72,6 @@
     {
         "identifier": "oderwat.indent-rainbow",
         "version": "8.3.1",
-        "enabled": true
-    },
-    {
-        "identifier": "olback.es6-css-minify",
-        "version": "3.3.3",
-        "enabled": true
-    },
-    {
-        "identifier": "rangav.vscode-thunder-client",
-        "version": "2.5.0",
         "enabled": true
     },
     {
