@@ -40,5 +40,8 @@
   "cSpell.ignoreWords": [
     "lucide",
     "shiki"
-  ]
+  ],
+  "[python]": {
+    "editor.formatOnType": true
+  }
 }
