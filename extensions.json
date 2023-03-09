@@ -71,8 +71,8 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.3.10",
-        "enabled": false
+        "version": "2023.3.20",
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter",
@@ -92,7 +92,7 @@
     {
         "identifier": "ms-toolsai.vscode-jupyter-cell-tags",
         "version": "0.1.6",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.vscode-jupyter-slideshow",
@@ -126,7 +126,7 @@
     },
     {
         "identifier": "vincaslt.highlight-matching-tag",
-        "version": "0.10.1",
+        "version": "0.11.0",
         "enabled": true
     },
     {
@@ -136,7 +136,7 @@
     },
     {
         "identifier": "WallabyJs.console-ninja",
-        "version": "0.0.81",
+        "version": "0.0.82",
         "enabled": true
     },
     {
